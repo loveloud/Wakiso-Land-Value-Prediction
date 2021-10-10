@@ -75,4 +75,9 @@ The most central point is represented by the red point in the image below;
 
 ![Central](https://user-images.githubusercontent.com/32632588/136697410-3bdb25bf-254c-481d-9e8d-b14730e84893.PNG)
 
-4.Namayumba Sucounty;
+The notebooks be uploaded so far are;
+
+1. Namayumba Sub-county
+2. Masulita Sub-county
+3. Kakiri Subcounty
+4. Wakiso Subcounty
